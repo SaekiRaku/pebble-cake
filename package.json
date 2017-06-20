@@ -1,0 +1,35 @@
+{
+    "name": "cake",
+    "author": "佐伯楽",
+    "version": "1.0.0",
+    "keywords": [
+        "pebble-app"
+    ],
+    "private": true,
+    "dependencies": {},
+    "pebble": {
+        "main": {
+            "rockyjs": "src/rocky/index.js",
+            "pkjs": "src/pkjs/index.js"
+        },
+        "displayName": "cake",
+        "uuid": "6a58250d-df26-4fe4-bf51-ed88a910f015",
+        "projectType": "rocky",
+        "sdkVersion": "3",
+        "enableMultiJS": true,
+        "watchapp": {
+            "watchface": true
+        },
+        "resources": {
+            "media": []
+        },
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "emery"
+        ],
+        "capabilities": [
+            "configurable"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+# project  configured on Tue Jun 20 17:57:48 2017 by
+# waf 1.7.11 (abi 98, python 2070df0 on darwin)
+# using /Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/Users/thomas/Documents/Develop/Pebble/cake
+----------------------------------------
+Setting out to
+/Users/thomas/Documents/Develop/Pebble/cake/build
+----------------------------------------
+Checking for program webpack
+/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/node_modules/.bin/webpack
+find program=['webpack'] paths=['/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/node_modules/.bin'] var='WEBPACK' -> '/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/node_modules/.bin/webpack'
+----------------------------------------
+Checking for program node,nodejs
+/usr/local/bin/node
+find program=['node', 'nodejs'] paths=['/Users/thomas/Documents/Library/pebble-dev/pebble-sdk-4.5-mac/arm-cs-tools/bin', '/Users/thomas/Documents/Library/pebble-dev/pebble-sdk-4.5-mac/bin', '/Users/thomas/Documents/Library/pebble-dev/pebble-sdk-4.5-mac/bin', '/usr/local/opt/opencv3/bin', '/Users/thomas/Library/Android/sdk/platform-tools', '/usr/local/bin', '/usr/bin', '/bin', '/usr/sbin', '/sbin', '/Users/thomas/Documents/Library/pebble-dev/pebble-sdk-4.5-mac/bin', '/usr/local/opt/opencv3/bin', '/Users/thomas/Library/Android/sdk/platform-tools'] var='NODE' -> '/usr/local/bin/node'
+----------------------------------------
+Found Pebble SDK for emery in:
+/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/emery
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for diorite in:
+/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/diorite
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for chalk in:
+/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/chalk
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for basalt in:
+/Users/thomas/Library/Application Support/Pebble SDK/SDKs/current/sdk-core/pebble/basalt
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
